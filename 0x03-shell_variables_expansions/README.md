@@ -1,0 +1,1 @@
+Project done during Software Engineering course with ALX. It aims to learn abour alis built-in, help built-in, local and global and reserved variables (PATH, HOME, PS1), Special parameters and symbols in Shell
